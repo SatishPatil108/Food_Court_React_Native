@@ -1,16 +1,4 @@
-# Food-Recipe-App-React-Native
-
-![Image](https://cdn.dribbble.com/userupload/9661662/file/original-ce9fa19b4cedbd0c7eae7fd797f86462.png?compress=1&resize=1600x1200)
-
-  
-  <p align="left">
-    <a href="https://www.youtube.com/channel/UCILovaLl2fUPAww1bGJ4sJQ?sub_confirmation=1"><img alt="Youtube" title="Youtube"  src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-    <p>
-      Watch Tutorial on YouTube <a href="https://youtu.be/cdnneQjsoT0" target="_blank">Food Recipe App in React Native with Reanimated</a>
-    </p>
-    
-  </p>
-  
+# Food-Court-App-React-Native
 
 ## Get Started
 
